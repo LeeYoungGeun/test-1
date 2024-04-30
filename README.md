@@ -22,3 +22,4 @@ Git Hub 친해지기
 
 <https://rockbottomdevbus.blogspot.com/>
 
+![냥이](./images/batch_6.jpg)
